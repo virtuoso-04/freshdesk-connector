@@ -31,6 +31,12 @@ What the agent can and cannot do: [docs/agent-capabilities.md](docs/agent-capabi
 
 ---
 
+## Live demo
+
+![Freshdesk portal dashboard showing live ticket data](docs/assets/freshdesk-dashboard.png)
+
+---
+
 ## Quick start
 
 ### 1. Get a Freshdesk API key
