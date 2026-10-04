@@ -1,0 +1,7 @@
+# Not needed in a published package
+src/__tests__/
+*.test.js
+.env
+.env.example
+.kiro/
+coverage/
